@@ -1,12 +1,21 @@
-h1, p {
-    text-align: center;
-    color: deeppink;
+body {
+    color: rgb(58, 53, 56);
 }
 
 h1 {
-    font-size: 4rem;
+    text-align: center;
+    font-size: 3rem;
 }
 
 p {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.container {
+    width: 70%;
+    padding: 1rem;
+    border: 1px solid rgb(27, 26, 26);
+    margin: 0 auto;
+    
 }
