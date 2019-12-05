@@ -13,10 +13,18 @@ p {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.container {
+.container, header {
     width: 70%;
     padding: 1rem;
-    border: 1px solid rgb(27, 26, 26);
+    /* border: 1px solid rgb(27, 26, 26); */
     margin: 0 auto;
     
+}
+
+header {
+    background-color: #33A;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.75);
 }
