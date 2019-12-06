@@ -1,5 +1,5 @@
 body {
-    color: rgb(155, 36, 107);
+    color: rgb(21, 109, 105);
 }
 
 h1 {
@@ -23,7 +23,7 @@ p {
 
 header {
     background-color: #33A;
-    color: red;
+    color: rgb(160, 239, 241);
     font-size: 2rem;
     font-weight: bold;
     box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.75);
